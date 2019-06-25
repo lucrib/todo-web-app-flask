@@ -1,0 +1,6 @@
+flask
+flask-restful
+pytest
+requests
+marshmallow
+flake8
