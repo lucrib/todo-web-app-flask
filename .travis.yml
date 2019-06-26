@@ -9,7 +9,7 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - pytest -v --cov ./todo/ ./tests/
+  - pytest -v --cov=./todo/ ./tests/
 
 after_sucess:
   - codecov
