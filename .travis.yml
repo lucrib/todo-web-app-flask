@@ -12,4 +12,5 @@ script:
   - pytest -v --cov-report=term --cov=./todo/ ./tests/
 
 after_sucess:
-  - codecov
+  - pip install coveralls
+  - coveralls
