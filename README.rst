@@ -8,6 +8,10 @@
 .. image:: https://coveralls.io/repos/github/lucrib/todo-web-app-flask/badge.svg?branch=master
     :target: https://coveralls.io/github/lucrib/todo-web-app-flask?branch=master
 
+.. image:: https://api.codeclimate.com/v1/badges/5ed4c7fb09be470f8406/maintainability
+   :target: https://codeclimate.com/github/lucrib/todo-web-app-flask/maintainability
+   :alt: Maintainability
+
 
 Todo App
 ========
