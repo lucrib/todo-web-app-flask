@@ -9,7 +9,7 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - pytest -v --cov
+  - pytest -v --pep8 --cov-report term --cov todo tests
 
 after_sucess:
   - coveralls

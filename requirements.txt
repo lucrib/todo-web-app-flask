@@ -5,4 +5,5 @@ requests
 marshmallow
 flake8
 pytest-cov
+pytest-pep8
 python-coveralls
