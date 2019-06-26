@@ -4,3 +4,4 @@ pytest
 requests
 marshmallow
 flake8
+pytest-cov
