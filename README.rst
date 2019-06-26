@@ -12,6 +12,9 @@
    :target: https://codeclimate.com/github/lucrib/todo-web-app-flask/maintainability
    :alt: Maintainability
 
+.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
+   :target: https://opensource.org/licenses/MIT
+   :alt: License: MIT
 
 Todo App
 ========
