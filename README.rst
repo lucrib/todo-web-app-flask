@@ -5,6 +5,10 @@
      :target: https://requires.io/github/lucrib/todo-web-app-flask/requirements/?branch=master
      :alt: Requirements Status
 
+.. image:: https://coveralls.io/repos/github/lucrib/todo-web-app-flask/badge.svg?branch=master
+    :target: https://coveralls.io/github/lucrib/todo-web-app-flask?branch=master
+
+
 Todo App
 ========
 
