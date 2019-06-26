@@ -7,11 +7,10 @@ python:
 
 install:
   - pip install -r requirements.txt
-  - pip install coveralls
 
 script:
   - rm -rf .coverage htmlcov
-  - pytest -v --cov=./todo/ ./tests/
+  - pytest -v --cov-report=xml --cov=./todo/ ./tests/
 
 after_sucess:
-  - coveralls
+  - codecov --file coverage.xml

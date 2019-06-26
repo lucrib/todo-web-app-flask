@@ -5,3 +5,4 @@ requests
 marshmallow
 flake8
 pytest-cov
+codecov
