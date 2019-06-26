@@ -12,4 +12,5 @@ script:
   - pytest -v --cov=./todo/ ./tests/
 
 after_sucess:
-  - codecov
+  - pip install codecov
+  - codecov --file .coverage
