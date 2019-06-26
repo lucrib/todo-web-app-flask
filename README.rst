@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lucrib/todo-web-app-flask.svg?branch=master)](https://travis-ci.org/lucrib/todo-web-app-flask)
+
 Todo App
 ========
 
